@@ -5,3 +5,7 @@ pandas
 joblib
 xgboost
 scikit-learn
+rapidocr
+onnxruntime
+pillow
+rapidfuzz
