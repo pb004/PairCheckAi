@@ -1,0 +1,10 @@
+split,model,macro_F1,recall_Minor,recall_Moderate,recall_Major
+S1 random,Majority class,0.274,0.0,1.0,0.0
+S1 random,Logistic regression,0.666,0.704,0.773,0.814
+S1 random,XGBoost,0.752,0.764,0.842,0.845
+S2 one new drug,Majority class,0.276,0.0,1.0,0.0
+S2 one new drug,Logistic regression,0.468,0.433,0.699,0.422
+S2 one new drug,XGBoost,0.621,0.467,0.828,0.586
+S3 two new drugs,Majority class,0.277,0.0,1.0,0.0
+S3 two new drugs,Logistic regression,0.343,0.212,0.665,0.206
+S3 two new drugs,XGBoost,0.418,0.061,0.873,0.294
